@@ -1,0 +1,13 @@
+# Created by .ignore support plugin (hsz.mobi)
+/.idea/*
+/.git/*
+/test/**
+/jmeter/**
+/node_modules/**
+/jre/**
+/e-yakutia_res_in_table.csv
+/e-yakutia_session.csv
+/jmeter_res.log
+/e-yakutia_jmeter-result.csv
+/jmeter.log
+/package-lock.json
